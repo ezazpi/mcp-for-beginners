@@ -83,8 +83,8 @@ The previous soultion is great when you have the .NET SDK installed, and all the
    ``` 
 1. After the image is built, let's upload it to Docker Hub. Run the following command:
    ```bash
-    docker push <YOUR-DOCKER-USERNAME>/mcp-calculator
-  ```
+   docker push <YOUR-DOCKER-USERNAME>/mcp-calculator
+   ```
 
 ## Use the Dockerized Version
 
